@@ -7,7 +7,7 @@ import { AppComponent } from './app.component';
 import { PruebaComponent } from './pages/prueba/prueba.component';
 import { CabeceraComponent } from './components/cabecera/cabecera.component';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
-import {MatTabsModule} from '@angular/material/tabs';
+import { MatTabsModule } from '@angular/material/tabs';
 import { LoginComponent } from './pages/login/login.component'; 
 import { FormsModule } from '@angular/forms';
 
